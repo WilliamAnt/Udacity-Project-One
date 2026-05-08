@@ -12,7 +12,7 @@ The following python libraries were using in this project
 ## Project Motivation
 Data from the World Bank Databank Website is used to answer the list of questions below:
 
-_Questions we hope to answer:__
+_Questions we hope to answer:_
 1. Is there a correlation between Gross Domestic Product(GDP), GPD Annual Percentage Grown, or GDP Per Cap and to living longer past 60 years of age?
 2. In countries where more men and woman are employed in agriculture, is the life expectancy past 60 lower?
 3. Are male and female life expectancy correlated and do woman tend to live longer?
